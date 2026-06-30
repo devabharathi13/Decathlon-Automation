@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is a Selenium WebDriver automation framework developed using Java to automate and validate key functionalities of the Decathlon e-commerce website.
 
-The framework follows a structured approach to perform end-to-end testing of user actions such as login, product search, and adding products to the cart.
+The framework follows a structured approach to testing of user actions such as login, product search, and adding products to the cart.
 
 ## 🚀 Features
 - User Login Automation
